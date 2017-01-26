@@ -44,3 +44,7 @@ body {
 .jumbotron p.active {
      color: #1f6ddd;
 }
+
+.project-description.active{
+     display: none;
+}
